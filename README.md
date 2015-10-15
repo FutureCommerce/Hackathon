@@ -1,7 +1,7 @@
 # Hackathon2015
 Repository for the FutureCommerce Hackathon, November 2015
 
-## Event [Entrollment](http://futurecommerce.civics.com/enroll.html)
+## Event [Enrollment](http://futurecommerce.civics.com/enroll.html)
 Enroll, through our handy Google form, at: http://futurecommerce.civics.com/enroll.html
 
 ## Hackathon [Landing Page](http://FutureCommerce.civics.com)
