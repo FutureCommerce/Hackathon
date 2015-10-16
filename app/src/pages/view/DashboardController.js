@@ -11,7 +11,9 @@
   function DashboardController($scope, $http, $log, $q) {
     
     $scope.feed = [];
-    $http.get('http://localhost:3000/commits').then(function(data){
+ 
+
+    $http.get('http://192.168.1.3:3000/commits').then(function(data){
       data.data.forEach(function(d, i){
         $scope.feed.push({
           'id' : i,

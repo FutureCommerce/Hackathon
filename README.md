@@ -4,7 +4,10 @@ Repository for the FutureCommerce Hackathon, November 2015
 
 For developers: 
 <code>npm install</code>
+<code>bower install</code>
 <code>npm start</code>
+
+
 
 ## Event [Enrollment](http://futurecommerce.civics.com/enroll.html)
 Enroll, through our handy Google form, at: http://futurecommerce.civics.com/enroll.html
