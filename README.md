@@ -1,14 +1,6 @@
 # Hackathon2015
 Repository for the FutureCommerce Hackathon, November 2015
 
-
-For developers: 
-<code>npm install</code>
-<code>bower install</code>
-<code>npm start</code>
-
-
-
 ## Event [Enrollment](http://futurecommerce.civics.com/enroll.html)
 Enroll, through our handy Google form, at: http://futurecommerce.civics.com/enroll.html
 
@@ -22,5 +14,3 @@ We will use the [Hackathon](https://github.com/FutureCommerce/Hackathon) reposit
 Some teams will be working on related graduate seminars at MIT Media Lab: 
 * http://stellar.mit.edu/S/course/MAS/fa15/MAS.S63 
 * http://blockchain.media.mit.edu/syllabus.html
-
-
