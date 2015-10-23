@@ -50,12 +50,12 @@
         content: 'Webtwo ipsum dolor sit amet, eskobo chumby doostang bebo. Bubbli greplin stypi prezi mzinga heroku wakoopa, shopify airbnb dogster dopplr gooru jumo, reddit plickers edmodo stypi zillow etsy.',
         html : './assets/partials/commerce.html'
       },
-      {
-        name: 'Program Timeline',
-        avatar: 'timer',
-        content: 'Webtwo ipsum dolor sit amet, eskobo chumby doostang bebo. Bubbli greplin stypi prezi mzinga heroku wakoopa, shopify airbnb dogster dopplr gooru jumo, reddit plickers edmodo stypi zillow etsy.',
-        html : './assets/partials/dashboard.html'
-      },
+      // {
+      //   name: 'Program Timeline',
+      //   avatar: 'timer',
+      //   content: 'Webtwo ipsum dolor sit amet, eskobo chumby doostang bebo. Bubbli greplin stypi prezi mzinga heroku wakoopa, shopify airbnb dogster dopplr gooru jumo, reddit plickers edmodo stypi zillow etsy.',
+      //   html : './assets/partials/dashboard.html'
+      // },
       {
         name: 'Contact',
         avatar: 'comment',

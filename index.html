@@ -28,9 +28,7 @@
 
   </head>
 
-  <body ng-app="starterApp" ng-controller="PageController as ul" ng-cloak flex layout-fill>
-  <div layout="row">
-    <div layout="column" >
+  <body ng-app="starterApp" class="layout-row" ng-controller="PageController as ul" ng-cloak flex layout-fill>
       <md-sidenav  
         flex 
         layout-fill
@@ -63,13 +61,12 @@
         </md-list>
 
       </md-sidenav>
-    </div>
 
   <!-- left-hand side of the page: sidenav -->
 
 
   <!-- Right-hand side of the page: content -->
-  <div flex layout="column" tabIndex="-1" role="main" class="md-whiteframe-z2">
+  <div class="layout-column flex">
     <md-toolbar layout="row" class="md-whiteframe-z1">
       <md-button class="menu" hide-gt-sm ng-click="ul.toggleList()" aria-label="Show Page List">
         <md-icon md-svg-icon="menu" ></md-icon>
@@ -86,7 +83,6 @@
       </md-content>
     </md-content>
 
-  </div>
   </div>
 
     <script src="./bower_components/angular/angular.js"></script>
