@@ -1,5 +1,5 @@
 # Hackathon2015
-Repository for the FutureCommerce Hackathon, November 2015
+Repository for the FutureCommerce Hackathon, November 20-22, 2015
 
 ## Event [Enrollment](http://futurecommerce.civics.com/enroll.html)
 Enroll, through our handy Google form, at: http://futurecommerce.civics.com/enroll.html
