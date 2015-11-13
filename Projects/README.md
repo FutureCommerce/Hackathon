@@ -1,1 +1,0 @@
-For FutureCommerce project pages.
