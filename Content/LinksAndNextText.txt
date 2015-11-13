@@ -1,0 +1,68 @@
+<h1>
+<a id="learn-more-and-jump-in" class="anchor" href="#learn-more-and-jump-in" aria-hidden="true"><span class="octicon octicon-link"></span></a>Learn More and Jump In</h1>
+
+
+  <h3>
+Check out the <a href="https://github.com/FutureCommerce/Hackathon/wiki/FAQ"> Event FAQ</a>
+</h3>
+
+
+<h3>
+<a id="event-registration" class="anchor" href="#event-registration" aria-hidden="true"><span class="octicon octicon-link"></span></a>Event <a href="enroll.html">Enrollment</a>
+</h3>
+
+<p>Enroll to be pre-registered for Online Participation and to get notices about this event:  <a href="enroll.html">http://FutureCommerce.CIVICS.com/enroll.html</a></p>
+
+<h3>
+<a id="hackathon-landing-page" class="anchor" href="#hackathon-landing-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackathon <a href="http://FutureCommerce.civics.com">Landing Page</a>
+</h3>
+
+<p>Check out the event webpage at: <a href="http://FutureCommerce.civics.com">http://FutureCommerce.civics.com</a> </p>
+
+<h3>
+<a id="hackathon-github-repository" class="anchor" href="#hackathon-github-repository" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hackathon GitHub Repository</h3>
+
+<p>We will use the <a href="https://github.com/FutureCommerce/Hackathon">Hackathon</a> repository in the <a href="https://github.com/FutureCommerce">FutureCommerce</a> GitHub Organization  </p>
+
+<h3>
+<a id="associated-mit-graduate-seminars" class="anchor" href="#associated-mit-graduate-seminars" aria-hidden="true"><span class="octicon octicon-link"></span></a>Associated <a href="http://stellar.mit.edu/S/course/MAS/fa15/MAS.S63">MIT Graduate Seminars</a>
+</h3>
+
+<p>Activities will be coordinated with related graduate seminars at MIT Media Lab: </p>
+
+<ul>
+<li>
+<a href="http://stellar.mit.edu/S/course/MAS/fa15/MAS.S63">http://stellar.mit.edu/S/course/MAS/fa15/MAS.S63</a> </li>
+<li><a href="http://blockchain.media.mit.edu/syllabus.html">http://blockchain.media.mit.edu/syllabus.html</a></li>
+</ul>
+
+
+<a id="whats-next" class="anchor" href="#whats-next" aria-hidden="true"><span class="octicon octicon-link"></span></a><p>
+
+<p>
+<hr>
+</p>
+<p>
+  <hr>
+</p>
+<p>
+  <hr>
+</p>
+<h3>What's Next?</h3>
+
+Previews and Live Discussion:
+<p> </p>
+Friday, November 13th, at 1:00pm Eastern LIVE FROM KANSAS CITY (link coming soon)
+
+<p>
+
+</p>Monday, November 16th, at 2:00pm Eastern (link coming soon)
+
+Prior Pre-Event Sessions:
+<br>
+Monday, November 9th at 2:00pm Eastern
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wzHBsa2NKAg" frameborder="0" allowfullscreen></iframe>
+<br>
+
+Join organizers, speakers and project leads for a preview of programs and activities planned for the FutureCommerce event and to participate in a question/answers period and open discussion block.
