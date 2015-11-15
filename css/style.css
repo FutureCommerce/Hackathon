@@ -263,3 +263,22 @@ nav a.button-collapse {
 footer.page-footer {
     margin-top: 0px !important;
 }
+
+
+
+
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  
+  
+  
+  tab { display:inline-block; 
+       margin-left: 50px; }
+      
